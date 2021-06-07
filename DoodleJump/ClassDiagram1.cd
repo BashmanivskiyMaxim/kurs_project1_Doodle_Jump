@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DoodleJump.Classes.Fragile_Platform">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAEAAAAAQAAAAAAAAABAEIAAAEACAAAAAAAA=</HashCode>
+      <FileName>Classes\Fragile_Platform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoodleJump.Classes.Heightrecords">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABQAAAAAAACAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Heightrecords.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoodleJump.Classes.Opponent">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAQAAAAAAAAABAAEAAAEACAAAAAAAA=</HashCode>
+      <FileName>Classes\Opponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoodleJump.Classes.Physics">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAABAMAAAAQACAAkAAAgAAAAAAACBAE=</HashCode>
+      <FileName>Classes\Physics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoodleJump.Classes.Platform">
+    <Position X="2.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAQAAAAAAAAABAEAAAAEACAAAAAAAA=</HashCode>
+      <FileName>Classes\Platform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoodleJump.Classes.PlatformController">
+    <Position X="10" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAQAAGAAAEAAIAAYAAAAAIAAAAAAAAAgAAAY=</HashCode>
+      <FileName>Classes\PlatformController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoodleJump.Classes.Player">
+    <Position X="6.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAgAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoodleJump.Classes.Speed_Platform">
+    <Position X="8" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAQAAAAAAAAABAEAAAAEACAAAAAAAA=</HashCode>
+      <FileName>Classes\Speed_Platform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoodleJump.Classes.Transform">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Transform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoodleJump.Form1">
+    <Position X="1" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CQQAAAAAACAAghwBBICAAAQCAAAAAAJBGAQCAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
